@@ -2,6 +2,7 @@
 Initial Coin Offering for Kiwi Lab, launched on Ethereum blockchain
 
 There are a maximum of 10,000 KIWI tokens costing 0.001 ETH each at the time of ICO.
+
 Every Kiwi NFT holder should get 10 tokens for free but they would have to pay the gas fees.
 
 Mint KIWI NFT here: https://kiwi-nft-dapp.vercel.app/ (open on desktop browser with metamask wallet extension integrated and connected to rinkeby network, or metamask wallet browser for mobile)
